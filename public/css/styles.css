@@ -1,0 +1,22 @@
+body {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 1.5rem;
+  text-align: left;
+  background-color:#edf5f7;
+}
+input[type="checkbox"]{
+  width: 18px; /*Desired width*/
+   height: 18px;/*Desired height*/
+ }
+.label{
+  font-size: 2rem;
+
+}
+.foot{
+  text-align: center;
+  position: relative;
+
+}
+.container{
+  padding-top: 20px;
+}
